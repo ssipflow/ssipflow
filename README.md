@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 **ssipflow/ssipflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+## 👨‍💻 About Me
+- Backend Engineer with experience in **Golang, NestJS, and Java/Spring**
+- Worked on **fintech and Web3 services**, building scalable and reliable backend systems
+- Interested in **Clean Architecture, Distributed Systems, and Fintech**
+- Focused on **scalable architecture, transaction integrity, and developer productivity**
+
+🔭 I’m currently exploring **high-throughput system design** by reimplementing my past worker-queue architecture with **Java/Spring Boot + MQ**, focusing on large-scale traffic control.
+
 ## 📊 Stats
 <p align="center">
   <!-- 메인 Stats 카드 (활동 적을 때 가리기)
@@ -27,14 +35,6 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=ssipflow&theme=algolia&row=1&column=6&margin-w=10&margin-h=10" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssipflow&theme=react-dark&bg_color=0D1117&hide_border=true" />
 </p>
-
-## 👨‍💻 About Me
-- Backend Engineer with experience in **Golang, NestJS, and Java/Spring**
-- Worked on **fintech and Web3 services**, building scalable and reliable backend systems
-- Interested in **Clean Architecture, Distributed Systems, and Fintech**
-- Focused on **scalable architecture, transaction integrity, and developer productivity**
-
-🔭 I’m currently exploring **high-throughput system design** by reimplementing my past worker-queue architecture with **Java/Spring Boot + MQ**, focusing on large-scale traffic control.
 
 ## 🛠 Tech Stack
 <p align="center">
