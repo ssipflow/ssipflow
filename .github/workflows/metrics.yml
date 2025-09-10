@@ -1,18 +1,36 @@
 name: Generate metrics
 on:
-  schedule: [{cron: "0 * * * *"}] # 매 시간마다 업데이트
-  workflow_dispatch: # 수동 실행도 가능
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Build metrics (languages incl. private)
+        uses: lowlighter/metrics@latest
         with:
+          # PAT (classic, repo 권한 필수)
           token: ${{ secrets.METRICS_TOKEN }}
+
+          user: ssipflow
           base: ""
+          template: classic
+          config_timezone: Asia/Seoul
+
+          # 출력(파일) 커밋 설정
+          output_action: commit
+          filename: metrics_languages.svg
+          committer_branch: main
+          committer_message: "chore: update metrics (languages)"
+
+          # 언어 플러그인
           plugin_languages: yes
-          plugin_languages_ignored: html, css, scss, ruby, javascript
           plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 20
+          plugin_languages_ignored: html, css, scss, ruby, javascript
