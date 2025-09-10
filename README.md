@@ -13,16 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+**ssipflow/ssipflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 ## 📊 Stats
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=ssipflow&show_icons=true&hide=contribs,prs&theme=algolia" height="180em" /> -->
+  <!-- 메인 Stats 카드 (활동 적을 때 가리기)
+  <img src="https://github-readme-stats.vercel.app/api?username=ssipflow&show_icons=true&hide=contribs,prs&theme=algolia" height="180em" />
+  -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssipflow&theme=algolia" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssipflow&layout=compact&theme=algolia&hide=javascript" height="180em" />
 </p>
 
 ## 👨‍💻 About Me
 - Backend Engineer with experience in **Golang, NestJS, and Java/Spring**
+- Worked on **fintech and Web3 services**, building scalable and reliable backend systems
 - Interested in **Clean Architecture, Distributed Systems, and Fintech**
+- Focused on **scalable architecture, transaction integrity, and developer productivity**
+
+🔭 I’m currently exploring **high-throughput system design** by reimplementing my past worker-queue architecture with **Java/Spring Boot + MQ**, focusing on large-scale traffic control.
 
 ## 🛠 Tech Stack
 <p align="center">
@@ -33,7 +43,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" />
   <br/>
-  <!-- DB & Messaging -->
+  <!-- Databases & Messaging -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
