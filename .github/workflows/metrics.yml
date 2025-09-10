@@ -14,13 +14,11 @@ jobs:
       - name: Build metrics (languages incl. private)
         uses: lowlighter/metrics@latest
         with:
-          # PAT (classic, repo 권한 필수)
           token: ${{ secrets.METRICS_TOKEN }}
 
           user: ssipflow
           base: ""
           template: classic
-          theme: algolia
           config_timezone: Asia/Seoul
 
           # 출력(파일) 커밋 설정
@@ -28,6 +26,7 @@ jobs:
           filename: metrics_languages.svg
           committer_branch: main
           committer_message: "chore: update metrics (languages)"
+          committer_token: ${{ secrets.METRICS_TOKEN }}
 
           # 언어 플러그인
           plugin_languages: yes
@@ -35,3 +34,25 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 20
           plugin_languages_ignored: html, css, scss, ruby, javascript
+
+          # ===== 색상 커스텀 (algolia 톤 유사) =====
+          extras_css: |
+            :root{
+              /* 배경/테두리 */
+              --color-canvas-default:#0b1220;
+              --color-canvas-subtle:#0f1629;
+              --color-border-default:#1f2a44;
+
+              /* 텍스트 */
+              --color-fg-default:#e6edf3;
+              --color-fg-muted:#a3b7cc;
+
+              /* 포인트 색 (algolia 계열의 하늘색) */
+              --color-accent-fg:#2aa2ff;
+
+              /* 보조 포인트 */
+              --color-success-fg:#2de6c5;
+              --color-danger-fg:#ff7a90;
+              --color-attention-fg:#ffd166;
+              --color-sponsors-fg:#ffb86b;
+            }
