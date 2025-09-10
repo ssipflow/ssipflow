@@ -25,17 +25,6 @@ Here are some ideas to get you started:
 
 🔭 I’m currently exploring **high-throughput system design** by reimplementing my past worker-queue architecture with **Java/Spring Boot + MQ**, focusing on large-scale traffic control.
 
-## 📊 Stats
-<p align="center">
-  <!-- 메인 Stats 카드 (활동 적을 때 가리기)
-  <img src="https://github-readme-stats.vercel.app/api?username=ssipflow&show_icons=true&hide=contribs,prs&theme=algolia" height="180em" />
-  -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssipflow&layout=compact&theme=algolia&hide=javascript" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssipflow&theme=algolia" height="180em" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ssipflow&theme=algolia&row=1&column=6&margin-w=10&margin-h=10" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssipflow&theme=react-dark&bg_color=0D1117&hide_border=true" />
-</p>
-
 ## 🛠 Tech Stack
 <p align="center">
   <!-- Languages & Frameworks -->
@@ -55,6 +44,17 @@ Here are some ideas to get you started:
   <!-- Cloud -->
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" />
+</p>
+
+## 📊 Stats
+<p align="center">
+  <!-- 메인 Stats 카드 (활동 적을 때 가리기)
+  <img src="https://github-readme-stats.vercel.app/api?username=ssipflow&show_icons=true&hide=contribs,prs&theme=algolia" height="180em" />
+  -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssipflow&layout=compact&theme=algolia&hide=javascript" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssipflow&theme=algolia" height="180em" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ssipflow&theme=algolia&row=1&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssipflow&theme=react-dark&bg_color=0D1117&hide_border=true" />
 </p>
 
 ## 🌐 Connect with Me
