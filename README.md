@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssipflow&show_icons=true&hide=contribs,prs&theme=algolia" height="180em" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=ssipflow&show_icons=true&hide=contribs,prs&theme=algolia" height="180em" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssipflow&theme=algolia" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssipflow&layout=compact&theme=algolia&hide=javascript" height="180em" />
 </p>
