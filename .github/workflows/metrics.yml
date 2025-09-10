@@ -20,6 +20,7 @@ jobs:
           user: ssipflow
           base: ""
           template: classic
+          theme: algolia
           config_timezone: Asia/Seoul
 
           # 출력(파일) 커밋 설정
