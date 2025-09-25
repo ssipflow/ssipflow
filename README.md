@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👨‍💻 About Me
-- Backend Engineer with experience in **Golang, NestJS, and Java/Spring**
+- Backend Engineer with experience in **Golang, Java/Spring and NestJS**
 - Worked on **fintech and Web3 services**, building scalable and reliable backend systems
 - Interested in **Clean Architecture, Distributed Systems, and Fintech**
 - Focused on **scalable architecture, transaction integrity, and developer productivity**
