@@ -49,7 +49,10 @@ Here are some ideas to get you started:
 ## 📊 Stats
 <p align="center">
   <img src='./metrics_languages.svg'>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssipflow&theme=algolia" height="180em" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ssipflow&theme=algolia" alt="GitHub Streak" height="180em"/>
+  </a>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssipflow&theme=algolia" height="180em" /> -->
   <img src="https://github-profile-trophy.vercel.app/?username=ssipflow&theme=algolia&row=1&column=6&margin-w=10&margin-h=10" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssipflow&theme=react-dark&bg_color=0D1117&hide_border=true" />
 </p>
