@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 <p align="center">
   <!-- Languages & Frameworks -->
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
   <br/>
   <!-- Databases & Messaging -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
@@ -48,12 +48,8 @@ Here are some ideas to get you started:
 
 ## 📊 Stats
 <p align="center">
-  <!-- 메인 Stats 카드 (활동 적을 때 가리기)
-  <img src="https://github-readme-stats.vercel.app/api?username=ssipflow&show_icons=true&hide=contribs,prs&theme=algolia" height="180em" />
-  -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssipflow&layout=compact&theme=algolia&hide=html,css,scss,ruby,plsql,php,arduino" height="180em" /> -->
   <img src='./metrics_languages.svg'>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ssipflow&theme=algolia" height="180em" />
+  <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=ssipflow&theme=algolia" height="180em" /> -->
   <img src="https://github-profile-trophy.vercel.app/?username=ssipflow&theme=algolia&row=1&column=6&margin-w=10&margin-h=10" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssipflow&theme=react-dark&bg_color=0D1117&hide_border=true" />
 </p>
